@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stamang\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stamang\\.nuget\\packages"
+    ]
+  }
+}
