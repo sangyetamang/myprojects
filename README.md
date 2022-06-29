@@ -1,1 +1,1 @@
-Please seee the code inside BankingApp folder
+Please see the code inside BankingApp folder
